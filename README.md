@@ -33,10 +33,10 @@ So what are you waiting for? Check out Woofer today and unleash your inner dog l
 ### Environment:
 Below we’ve provided you with a GitHub Codespaces template link that is pre-populated with TypeScript and React 18. This is a free service that provides up to 60 hours of usage and includes a preview pane all within the browser. No dev environment setup! All you need is a GitHub account and the link below. Once there, click the “Use this template” button in the top right and then “Open in a codespace”. After you open the template, it will start the app and you should see the Woofer logo. Before you get coding, open the source control tab and publish the branch to a public repo within your GitHub. That’s it! You should be ready to work. Happy coding and thanks for taking the time to show us what you can do!
 
-[https://github.com/brandonthomas/codespaces-uxe-challenge - you're here now](https://github.com/chelseasimek/msft-uxeii-code-challenge)
+[https://github.com/chelseasimek/msft-uxeii-code-challenge - you're here now](https://github.com/chelseasimek/msft-uxeii-code-challenge)
 
 ### Designs:
-[https://www.figma.com/file/4BTnykXSgsFca3qXLjmRam/Who-let-the-dogs-out%3F-(Principal)?type=design&node-id=0%3A1&mode=design&t=i2eNeyORvFlU0DE1-1](https://www.figma.com/file/e2MU51HozZDDV10DHiDVog/UXE-II-Take-Home-Challenge?type=design&node-id=4%3A80&mode=design&t=56Uqa2S5yoReBlta-1)
+[https://www.figma.com/file/e2MU51HozZDDV10DHiDVog/UXE-II-Take-Home-Challenge?type=design&node-id=4%3A80&mode=design&t=56Uqa2S5yoReBlta-1](https://www.figma.com/file/e2MU51HozZDDV10DHiDVog/UXE-II-Take-Home-Challenge?type=design&node-id=4%3A80&mode=design&t=56Uqa2S5yoReBlta-1)
 
 Password: woofwoof
 
