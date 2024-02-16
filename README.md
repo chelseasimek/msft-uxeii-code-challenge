@@ -22,7 +22,7 @@ So what are you waiting for? Check out Woofer today and unleash your inner dog l
 - We want you to showcase your additional skills by expanding on the challenge in front of you. Choose **one** of the following options below for expansion:
   - **Option 1:** Add an expected feature to Woofers homepage in your development build
   - **Option 2:** Concept an innovative feature for Woofer in a design tool / brainstorming tool of your choice
-- Please choose the option that best showcases _your_ skills. We want to assess the areas that you feel strongest in. 
+- This section aims to evaluate which part of our team you will thrive in the most. Please choose the option that best showcases _your_ skills as we want to fairly assess the areas that you feel strongest in. 
 
 ### What we are evaluating: 
 - Your technical abilities - both your ability to write code and your ability to explain your technical choices
